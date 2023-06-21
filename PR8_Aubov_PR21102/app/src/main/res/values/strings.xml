@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PR8_Aubov_PR-21.102</string>
+    <string name="name">Приют \"Надежда\"</string>
+    <string name="question"><b>Кого ты хочешь взять?</b></string>
+    <string name="choose">Выбери одну категорию питомца</string>
+    <string name="cat">Кошки</string>
+    <string name="dog">Собаки</string>
+    <string name="humster">Хомяки</string>
+    <string name="angybird">Попугаи</string>
+    <string name="res">Показать результаты</string>
+    <string name="contract">Согласен(-а) с условиями использования \nи политикой кинфиденциальности</string>
+    <string name="choose2"><b>Выбери себе питомца</b></string>
+    <string name="info"><b>Барсик</b> \n\nСмесь Британского \nкота\nВозраст - 4 месяца.</string>
+<string name="yourname">            Введите своё имя</string>
+    <string name="yourphone">            Введите свой номер телефона</string>
+    <string name="take">Забрать к себе</string>
+    <string name="call">Позвонить нам</string>
+    <string name="yourinfo"><b>Заполните данные, мы с вами свяжемся</b></string>
+
+</resources>
